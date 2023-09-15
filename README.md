@@ -1,17 +1,17 @@
 # AwesomePrivacyCam
 These are a series of papers related to visual privacy protection. We have categorized them and listed them in the order of their publication date.
 
-# Devices and Privacy
+## Devices and Privacy
 
-## Lensless Technologies
+### Lensless Technologies
 - **Face Recognition using Lensless Cameras**
 - **Privacy in Lensless Imaging**
 
-## Optical Technologies
+### Optical Technologies
 - **Optical Adversarial Attacks**
 - **New Optical Device Designs**
 
-## Privacy-protective Devices
+### Privacy-protective Devices
 - **Privacy-protective Cameras**
 
 
