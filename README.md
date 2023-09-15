@@ -5,6 +5,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 ### Attacks on Face Recognition
 - **Model Adversarial Attacks**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -13,6 +14,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 ### Privacy Measures in Face Recognition
 - **New Neural Network Models**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -20,6 +22,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
 - **Encryption**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -27,6 +30,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
 - **Differential Privacy**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -36,6 +40,7 @@ These are a series of papers related to visual privacy protection. We have categ
 ## Image Processing and Privacy
 
 ### Privacy in Image 3D Reconstruction
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -43,6 +48,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
 ### Privacy in Image-based Localization
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -50,6 +56,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
 ### Privacy in Motion Recognition
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -58,6 +65,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 ### Privacy in Image Data
 - **Based on Deep Learning**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -65,6 +73,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
 - **Based on Quantum Computing**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -75,6 +84,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 ### Lensless Technologies
 - **Face Recognition using Lensless Cameras**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -82,6 +92,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
 - **Privacy in Lensless Imaging**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -90,6 +101,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 ### Optical Technologies
 - **Optical Adversarial Attacks**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -97,6 +109,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
 - **New Optical Device Designs**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -105,6 +118,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 ### Privacy-protective Devices
 - **Privacy-protective Cameras**
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
@@ -113,6 +127,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 ## Augmented Reality and Privacy
 ### Privacy and Security in Augmented Reality
+
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
