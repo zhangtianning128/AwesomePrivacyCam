@@ -17,7 +17,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
-| 2022 | CCS | XXX   | AAA  |
+| 2019 | 2019 IEEE/CVF International Conference on Computer Vision Workshop (ICCVW) | Deep Compressive Sensing for Visual Privacy Protection in FlatCam Imaging   | -----  |
 | 单元格1-1 | 单元格1-2 | 单元格1-3 | ----- |
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
