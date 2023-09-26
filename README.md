@@ -10,7 +10,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
 | 单元格1-1 | 单元格1-2 | 单元格1-3 | ----- |
-| 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
+| 2023 | 2023 IEEE Symposium on Security and Privacy (SP) | DepthFake: Spoofing 3D Face Authentication with a 2D Photo | ----- |
 
 ### Privacy Measures in Face Recognition
 - **New Neural Network Models**
@@ -25,7 +25,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
-| 2022 | CCS | XXX   | AAA  |
+| 2009 | 12th International Conference on Information Security and Cryptology (ICISC ’09) | Efficient Privacy-Preserving Face Recognition | ----- |
 | 单元格1-1 | 单元格1-2 | 单元格1-3 | ----- |
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
@@ -34,6 +34,14 @@ These are a series of papers related to visual privacy protection. We have categ
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2022 | CCS | XXX   | AAA  |
+| 单元格1-1 | 单元格1-2 | 单元格1-3 | ----- |
+| 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
+
+- **review**
+
+| Year | Pub | Paper | Repo |
+| ---- | --- | ----- | ---- |
+| 2020 | United States Government Accountability Office | FACIAL RECOGNITION TECHNOLOGY Privacy and Accuracy Issues Related to Commercial Uses | ----- |
 | 单元格1-1 | 单元格1-2 | 单元格1-3 | ----- |
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
@@ -87,7 +95,7 @@ These are a series of papers related to visual privacy protection. We have categ
 
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
-| 2022 | CCS | XXX   | AAA  |
+| 2019 | IEEE TRANSACTIONS ON COMPUTATIONAL IMAGING, VOL.5, NO.2 | Face Detection and Verification Using Lensless Cameras | ----- |
 | 单元格1-1 | 单元格1-2 | 单元格1-3 | ----- |
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
