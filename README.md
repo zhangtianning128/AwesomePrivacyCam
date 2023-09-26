@@ -96,7 +96,7 @@ These are a series of papers related to visual privacy protection. We have categ
 | Year | Pub | Paper | Repo |
 | ---- | --- | ----- | ---- |
 | 2019 | IEEE TRANSACTIONS ON COMPUTATIONAL IMAGING, VOL.5, NO.2 | Face Detection and Verification Using Lensless Cameras | ----- |
-| 单元格1-1 | 单元格1-2 | 单元格1-3 | ----- |
+| 2022 | Optics Express | [Diffractive lensless imaging with optimized Voronoi-Fresnel phase](https://opg.optica.org/oe/fulltext.cfm?uri=oe-30-25-45807&id=522199) | ----- |
 | 单元格2-1 | 单元格2-2 | 单元格2-3 | ----- |
 
 - **Privacy in Lensless Imaging**
